@@ -41,7 +41,7 @@ It features an intuitive Streamlit web interface, supports custom fonts, and wor
    [**🔗 Window - English**](https://github.com/yummysheepouo/QuickWatermark/releases/download/beta/English-window.zip)<br>
    [**🔗 Window - Chinese**](https://github.com/yummysheepouo/QuickWatermark/releases/download/beta/Chinese-window.zip)<br>
    [**🔗 MacOS - English**](https://github.com/yummysheepouo/QuickWatermark/releases/download/beta/English-macOS.zip)<br>
-   [**🔗 MacOS - Chinese**](https://github.com/yummysheepouo/QuickWatermark/releases/download/beta/Chinese-macOS.zip)<br>
+   [**🔗 MacOS - Chinese**](https://github.com/yummysheepouo/QuickWatermark/releases/download/beta/Chinese-macOS.zip)<br><br>
    Or clone the repository:
    ```
    git clone https://github.com/your-username/QuickWatermark.git
