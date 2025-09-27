@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <br><br>
 
-  [**📜 更新日誌**](https://github.com/yummysheepouo/QuickWatermark/blob/main/docs/Changelog.md)
+  [**📜 更新日誌**](https://github.com/yummysheepouo/QuickWatermark/blob/main/docs/Changelog.md) <br>
   [**us English**](https://github.com/yummysheepouo/QuickWatermark/blob/main/README.md) | [**zh-tw 中文**](https://github.com/yummysheepouo/QuickWatermark/blob/main/docs/README-zh.md)
 </div>
 

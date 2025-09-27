@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <br><br>
 
-  [**📜Changelog**](https://github.com/yummysheepouo/QuickWatermark/blob/main/docs/Changelog.md)
+  [**📜Changelog**](https://github.com/yummysheepouo/QuickWatermark/blob/main/docs/Changelog.md) <br>
   [**us English**](https://github.com/yummysheepouo/QuickWatermark/blob/main/README.md) | [**zh-tw 中文**](https://github.com/yummysheepouo/QuickWatermark/blob/main/docs/README-zh.md)
 
  
