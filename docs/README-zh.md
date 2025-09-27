@@ -24,7 +24,7 @@ QuickWatermark 是一款簡單但功能強大的工具，可為圖片、GIF和�
 
 <img src="/docs/example-zh.png" alt="QuickWatermark Screenshot" width="600" height="500" />
 
----
+
 
 ## ✨ 功能特色
 
@@ -34,7 +34,7 @@ QuickWatermark 是一款簡單但功能強大的工具，可為圖片、GIF和�
 - 即時預覽並輕鬆下載加上水印的檔案  
 - 跨平台支援
 
----
+
 
 ## 🚀 快速開始
 
