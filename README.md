@@ -1,7 +1,6 @@
 
-<p align="center" style="font-size:12em;">
-    Protect your creative work in seconds with <b>QuickWatermark</b>!
-</p>
+<h1 align="center">Protect your creative work in seconds with <b>QuickWatermark</b>!</h1>
+
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/LICENSE-MIT-green.svg?style=for-the-badge">
@@ -19,7 +18,6 @@
 
 
 
----
 
 ## 🖼️ What is QuickWatermark?
 QuickWatermark is a simple and powerful tool for adding text or image watermarks to images, GIFs, and videos.  

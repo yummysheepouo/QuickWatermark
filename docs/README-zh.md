@@ -1,6 +1,6 @@
-<p align="center" style="font-size:2em;">
-    只需幾秒鐘，使用 <b>QuickWatermark</b> 保護你的作品！
-</p>
+
+<h1 align="center">只需幾秒鐘，使用 <b>QuickWatermark</b> 保護你的作品！</h1>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -15,7 +15,7 @@
   [**us English**](https://github.com/yummysheepouo/QuickWatermark/blob/main/README.md) | [**zh-tw 中文**](https://github.com/yummysheepouo/QuickWatermark/blob/main/docs/README-zh.md)
 </div>
 
----
+
 
 ## 🖼️ QuickWatermark 是什麼？
 
