@@ -38,7 +38,13 @@ QuickWatermark 是一款簡單但功能強大的工具，可為圖片、GIF和�
 
 ## 🚀 快速開始
 
-1. **複製此專案：**
+1. **下載此專案：**
+   在版本發佈頁面中下載你偏好的語言與平台版本
+   [**🔗 Window - 英文**](https://github.com/yummysheepouo/QuickWatermark/releases/download/beta/English-window.zip)
+   [**🔗 Window - 中文**](https://github.com/yummysheepouo/QuickWatermark/releases/download/beta/Chinese-window.zip)
+   [**🔗 MacOS - 英文**](https://github.com/yummysheepouo/QuickWatermark/releases/download/beta/English-macOS.zip)
+   [**🔗 MacOS - 中文**](https://github.com/yummysheepouo/QuickWatermark/releases/download/beta/Chinese-macOS.zip)
+   或複製此專案
    ```bash
    git clone https://github.com/yummysheepouo/QuickWatermark.git
    cd QuickWatermark
