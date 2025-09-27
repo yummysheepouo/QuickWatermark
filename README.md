@@ -37,7 +37,7 @@ It features an intuitive Streamlit web interface, supports custom fonts, and wor
 ## 🚀 Quick Start
 
 1. **Download the files**
-   Download your prefered languages and platform in the release
+   Download your prefered languages and platform in the release<br>
    [**🔗 Window - English**](https://github.com/yummysheepouo/QuickWatermark/releases/download/beta/English-window.zip)
    [**🔗 Window - Chinese**](https://github.com/yummysheepouo/QuickWatermark/releases/download/beta/Chinese-window.zip)
    [**🔗 MacOS - English**](https://github.com/yummysheepouo/QuickWatermark/releases/download/beta/English-macOS.zip)
