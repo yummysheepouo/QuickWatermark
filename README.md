@@ -1,5 +1,5 @@
 
-<p align="center" style="font-size:2em;">
+<p align="center" style="font-size:12em;">
     Protect your creative work in seconds with <b>QuickWatermark</b>!
 </p>
 <div align="center">
