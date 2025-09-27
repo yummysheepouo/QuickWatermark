@@ -59,7 +59,7 @@ QuickWatermark 是一款簡單但功能強大的工具，可為圖片、GIF和�
    ```
 
 3. **啟動應用程式：**
-   點擊 `start.bat` 或 `start.sh` 執行應用程式
+   點擊 `start.bat` 或 `start.sh` 執行應用程式<br><br>
    若無法啟動，可改用以下指令：
    ```
    streamlit run main.py

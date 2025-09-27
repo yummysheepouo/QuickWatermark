@@ -58,7 +58,7 @@ It features an intuitive Streamlit web interface, supports custom fonts, and wor
    ```
 
 3. **Run the app:**
-  Click the `start.bat` or `start.sh` to run the app
+  Click the `start.bat` or `start.sh` to run the app<br><br>
   If not working, run the command instead:
    ```
    streamlit run main.py
